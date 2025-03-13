@@ -10,7 +10,7 @@ export default function Body2() {
       //   "https://www.apple.com/v/home/cd/images/heroes/ipad-air/hero_ipad_air_preorder__ftn4a0m2i0uq_small_2x.jpg",
       // image_stylep: "sm:hidden sm:-ml-48 -ml-32  w-full",
       style:
-        "sm:h-[1000px] h-[500px]  w-full sm:w-full    sm:mt-3 sm:bg-[url('tab.jpg')] bg-[url('tabp.jpg')] bg-no-repeat bg-center bg-cover   ",
+        "sm:h-[1000px] h-[500px]  w-full sm:w-full    sm:mt-3 sm:bg-[url('/tab.jpg')] bg-[url('/tabp.jpg')] bg-no-repeat bg-center bg-cover   ",
       text_style: "absolute text-center sm:ml-[610px] mt-4 sm:mt-18",
       text1: "iPad air",
       text1_style: "sm:text-6xl text-3xl font-bold",
@@ -41,7 +41,7 @@ export default function Body2() {
       //   "https://www.apple.com/v/home/cd/images/heroes/mac-studio/hero_macstudio_announce__ceq1ppfwmdjm_medium_2x.jpg",
       // image_stylep: "sm:hidden -ml-48  w-full",
       style:
-        "bg-[url('box.jpg')] bg-no-repeat bg-center bg-cover sm:bg-[url('boxp.jpg')]  sm:h-[1000px] sm:w-full sm:mt-3 mt-3 h-[500px] w-full ",
+        "bg-[url('/box.jpg')] bg-no-repeat bg-center bg-cover sm:bg-[url('/boxp.jpg')]  sm:h-[1000px] sm:w-full sm:mt-3 mt-3 h-[500px] w-full ",
       text_style: "absolute ml-10 text-center mt-4 sm:ml-[730px] sm:mt-18",
       text1: "Mac Studio",
       text1_style: "sm:text-6xl text-3xl font-bold",
