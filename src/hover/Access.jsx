@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Access() {
   return (
-    <div className=" left-0 sm:-mt-16  sm:fixed  absolute w-full h-[500px] bg-white z-50">
+    <div className=" left-0 sm:-mt-10  sm:fixed  absolute w-full h-[500px] bg-white z-50">
       <div className="flex justify-center gap-42   text-gray-800">
-        <ul className="font-semibold mt-9 -ml-[704px]">
+        <ul className="font-semibold mt-9 -ml-[480px]">
           <h5 className="text-sm text-gray-400 mb-3">Shop Accessories</h5>
           <li className="text-2xl mb-3">
             <a href="">Shop All Accessories</a>

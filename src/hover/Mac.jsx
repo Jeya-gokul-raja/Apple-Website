@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Mac() {
   return (
-    <div className="flex justify-center z-20  gap-32 absolute bg-white sm:fixed sm:-mt-16 w-full h-[600px] text-gray-800 ">
-      <ul className="font-semibold mt-6  -ml-[521px]">
+    <div className="flex justify-center z-20  gap-32 absolute bg-white sm:fixed sm:-mt-10 w-full h-[600px] text-gray-800 ">
+      <ul className="font-semibold mt-6  -ml-[300px]">
         <h5 className="text-sm text-gray-400 mb-3">Explore Mac</h5>
         <li className="text-2xl mb-3">
           <a href="">Explore All Mac</a>

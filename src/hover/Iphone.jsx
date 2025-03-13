@@ -2,8 +2,8 @@ import React from "react";
 
 export default function iphone() {
   return (
-    <div className="flex justify-center z-20 sm:-mt-16 sm:fixed  gap-32 absolute bg-white w-full h-[570px]   text-gray-800 ">
-      <ul className="font-semibold mt-6  -ml-[500px]">
+    <div className="flex justify-center z-20 sm:-mt-10 sm:fixed  gap-32 absolute bg-white w-full h-[570px]   text-gray-800 ">
+      <ul className="font-semibold mt-6  -ml-[270px]">
         <h5 className="text-sm text-gray-400 mb-3">Explore All iPhone</h5>
         <li className="text-2xl mb-3">
           <a href="">iPhone 16 Pro</a>

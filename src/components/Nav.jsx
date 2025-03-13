@@ -115,12 +115,12 @@ export default function Nav() {
               </a>
             </li>{" "}
             <li className=":hidden">
-              <button onClick={() => setToggleMenu(!toggleMenu)}>☰</button>
+              <button onClick={() => setToggleMenu(!toggleMenu)}>=</button>
             </li>{" "}
           </div>
         </ul>
 
-        <ul className="sm:flex hidden justify-center gap-12 bg-white fixed top-0 w-full  h-16 pt-4">
+        <ul className="sm:flex hidden justify-center gap-9 text-sm font-normal bg-white fixed top-0 w-full  h-14 pt-4">
           {/* Toggle Button */}
           <li className="">
             <a href="#">
@@ -196,7 +196,7 @@ export default function Nav() {
           </li>
         </ul>
 
-        <p className="sm:flex-row flex flex-col  items-center bg-white text-center px-8 mb-3 sm:mb-0 sm:px-0 mt-5 justify-center sm:mt-16 sm:p-4 text-sm sm:text-lg ">
+        <p className="sm:flex-row flex flex-col  items-center bg-white text-center px-8 mb-3 sm:mb-0 sm:px-0 mt-5 justify-center sm:mt-14 sm:p-2 text-sm sm:text-base ">
           Get up to 24 months of No Cost EMI plus up to ₹10,000 instant cashback
           on selected products with eligible cards.
           <span className="text-blue-500">
@@ -205,7 +205,7 @@ export default function Nav() {
                 {" "}
                 <h3>Shop</h3>
                 <svg
-                  className="sm:size-4 size-3 mt-2 sm:mt-2 "
+                  className="sm:size-4 size-2 mt-2 sm:mt-2 "
                   fill="#329ee2"
                   viewBox="0 0 32 32"
                   xmlns="http://www.w3.org/2000/svg"

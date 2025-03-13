@@ -11,33 +11,33 @@ export default function Body1() {
   //   ];
 
   return (
-    <div className="bg-[url('/Lap.jpg')] sm:bg-[url('/Laplg.jpg')] bg-no-repeat bg-center bg-cover flex justify-center pt-20 sm:-mt-16 sm:h-[1000px] h-[500px]  w-full sm:w-full">
+    <div className="bg-[url('/Lap.jpg')] sm:bg-[url('/Laplg.jpg')] bg-no-repeat bg-center bg-cover flex justify-center pt-20 sm:-mt-16 sm:h-[800px] h-[500px]  w-full sm:w-full">
       <a href="#" className=" text-center">
         <div className=" sm:mt-4 -mt-11">
-          <h1 className="sm:text-7xl text-3xl font-bold">MacBook Air</h1>
-          <h3 className=" text-xl sm:text-4xl mt-2 sm:mt-4 ">
+          <h1 className="sm:text-6xl text-3xl font-bold">MacBook Air</h1>
+          <h3 className=" text-xl sm:text-3xl mt-2 sm:mt-4 ">
             Sky blue colour
           </h3>
-          <p className="text-xl   sm:text-4xl -mt-1">
+          <p className="text-xl   sm:text-3xl -mt-1">
             Sky-high performance with M4
           </p>
-          <h5 className="sm:font-semibold sm:m-4 m-2 text-gray-400 sm:text-2xl text-base">
+          <h5 className="sm:font-semibold sm:m-4 m-2 text-gray-400 sm:text-xl text-base">
             Available form 12 March
           </h5>
           <div className="flex justify-center">
-            <button className="bg-blue-500 border sm:w-42 sm:h-14 h-10 w-26 sm:p-2 p-1 text-white sm:text-2xl text-sm rounded-4xl">
+            <button className="bg-blue-500 border sm:w-36 sm:h-10 h-10 w-26 sm:p-1 p-1 text-white sm:text-xl text-sm rounded-4xl">
               Learn more
             </button>
-            <button className="hover:bg-blue-500 hover:text-white  border ml-6 border-blue-500 sm:w-42 sm:h-14 h-10 w-26 sm:p-2 p-1 text-blue-500 sm:text-2xl text-sm rounded-4xl">
+            <button className="hover:bg-blue-500 hover:text-white  border ml-6 border-blue-500 sm:w-36 sm:h-10 h-10 w-26 sm:p-1 p-1 text-blue-500 sm:text-xl text-sm rounded-4xl">
               Pre-order
             </button>
           </div>
 
-          <div className="sm:mt-[460px] mt-56">
-            <h4 className="sm:text-3xl text-base ">
+          <div className="sm:mt-[340px] mt-56">
+            <h4 className="sm:text-2xl text-base ">
               Build for Apple Intelligence
             </h4>
-            <p className="sm:text-xl text-sm sm:mt-2 text-gray-400">
+            <p className="sm:text-base text-sm sm:mt-2 text-gray-400">
               Coming in English in early April
             </p>
           </div>

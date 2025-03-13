@@ -10,22 +10,22 @@ export default function Body3() {
         "https://www.apple.com/in/home/promos/ipad/images/promo_ipad__fioegapg12qi_medium.jpg",
       image1_style: "w-full mt-2 sm:hidden h-[450px] object-cover",
 
-      text_style: "absolute text-center ml-9 mt-8 sm:ml-[270px] sm:mt-18",
+      text_style: "absolute text-center ml-9 mt-8 sm:ml-[190px] sm:mt-18",
       text1: "iPad",
-      text1_style: "sm:text-5xl text-3xl font-medium ",
+      text1_style: "sm:text-4xl text-3xl font-medium ",
       text2: "Now with the speed of the A16 chip",
-      text2_style: "sm:text-2xl text-base sm:mt-3",
+      text2_style: "sm:text-xl text-base sm:mt-3",
       text3: "and double the starting storage.",
-      text3_style: "sm:text-2xl text-base",
+      text3_style: "sm:text-xl text-base",
       text4: "Available from 12 March",
-      text4_style: "sm:text-xl text-base text-gray-500 mt-3 mb-3",
+      text4_style: "sm:text-base text-base text-gray-500 mt-3 mb-3",
 
       button1: "Learn more",
       button1_style:
-        "bg-blue-500 border sm:w-36 w-28  border-blue-500 h-10 sm:h-12 p-2 text-white text-sm sm:text-xl rounded-4xl",
+        "bg-blue-500 border sm:w-36 w-28  border-blue-500 h-10 sm:h-10 p-2 text-white text-sm sm:text-base rounded-4xl",
       button2: "Pre-order",
       button2_style:
-        "hover:bg-blue-500 hover:text-white  border ml-6 border-blue-500 sm:w-36 sm:h-12 w-28 h-10 p-2 text-blue-500 sm:text-xl text-sm rounded-4xl",
+        "hover:bg-blue-500 hover:text-white  border ml-6 border-blue-500 sm:w-36 sm:h-10 w-28 h-10 p-2 text-blue-500 sm:text-base text-sm rounded-4xl",
     },
     {
       image:
@@ -34,36 +34,36 @@ export default function Body3() {
       image1:
         "https://www.apple.com/v/home/cd/images/promos/iphone-family/promo_iphone_family__ofrg9zdy1teq_medium.jpg",
       image1_style: "sm:hidden h-[450px] w-full mt-2 object-cover",
-      text_style: "absolute text-center sm:mt-18 mt-7 ml-7 sm:ml-62",
+      text_style: "absolute text-center sm:mt-18 mt-7 ml-7 sm:ml-48",
       text1: "iPhone",
       text1_style: "sm:text-5xl text-3xl font-medium",
       text2: "Meet the iPhone 16 family",
-      text2_style: "sm:text-2xl text-base sm:mt-3 mb-2 sm:mb-3",
+      text2_style: "sm:text-xl text-base sm:mt-3 mb-2 sm:mb-3",
       button1: "Learn more",
       button1_style:
-        "bg-blue-500 border sm:w-36  border-blue-500 sm:h-12 h-10 w-28 p-2  text-white text-sm sm:text-xl rounded-4xl",
+        "bg-blue-500 border sm:w-36  border-blue-500 sm:h-10 h-10 w-28 p-2  text-white text-sm sm:text-base rounded-4xl",
       button2: "Shop iPhone",
       button2_style:
-        "hover:bg-blue-500 hover:text-white bg-white border ml-6 border-blue-500 sm:w-36 sm:h-12 h-10 w-28 p-2 text-blue-500 sm:text-xl text-sm rounded-4xl",
+        "hover:bg-blue-500 hover:text-white bg-white border ml-6 border-blue-500 sm:w-36 sm:h-10 h-10 w-28 p-2 text-blue-500 sm:text-base text-sm rounded-4xl",
       textt1: "Build for Apple Intelligence",
       textt1_style: "sm:mt-2 mt-2 sm:text-xl text-base",
       textt2: "Coming in English in early April",
-      textt2_style: "sm:text-base text-sm text-gray-500  mb-3",
+      textt2_style: " text-sm text-gray-500  mb-3",
     },
     {
       image:
         " https://www.apple.com/v/home/cd/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_small.jpg",
-      image_style: "sm:w-full sm:block hidden sm:h-[800px]",
+      image_style: "sm:w-full sm:block hidden sm:h-[700px]",
       image1:
         "https://www.apple.com/v/home/cd/images/promos/iphone-tradein/promo_iphone_tradein__bugw15ka691e_medium_2x.jpg",
       image1_style: "sm:hidden h-[400px] w-full mt-2 object-cover",
 
-      text_style: "absolute text-center sm:ml-62 mt-10 ml-12 sm:mt-18",
+      text_style: "absolute text-center sm:ml-54 mt-10 ml-12 sm:mt-18",
       text1: "Trade In",
-      text1_style: "sm:text-5xl text-3xl font-medium",
+      text1_style: "sm:text-4xl text-3xl font-medium",
       svg: (
         <svg
-          className="sm:size-9 mt-2 size-5"
+          className="sm:size-7 mt-2 size-5"
           width="20px"
           height="20px"
           viewBox="0 0 22.773 22.773"
@@ -77,12 +77,12 @@ export default function Body3() {
       ),
 
       text2: "Upgrade and save. It's that easy.",
-      text2_style: "sm:text-2xl text-base mt-2 mb-7",
+      text2_style: "sm:text-xl text-base mt-2 mb-7",
       text3: "",
       text3_style: "",
       button1: "Get your estimate",
       button1_style:
-        "bg-blue-500 border sm:w-52 sm:h-12 h-10 w-40 p-2 text-white sm:text-xl text-base rounded-4xl",
+        "bg-blue-500 border sm:w-52 sm:h-10 h-10 w-40 p-2 text-white sm:text-base text-base rounded-4xl",
       button2: "",
       button2_style: "",
       text4: "",
@@ -91,15 +91,15 @@ export default function Body3() {
     {
       image:
         "https://www.apple.com/v/home/cd/images/promos/apple-watch-series-10/promo_apple_watch_series_10_avail__b9etp10v9tn6_large_2x.jpg",
-      image_style: "w-full sm:block hidden h-[800px]",
+      image_style: "w-full sm:block hidden h-[700px]",
       image1:
         "https://www.apple.com/v/home/cd/images/promos/apple-watch-series-10/promo_apple_watch_series_10_avail__b9etp10v9tn6_medium.jpg",
       image1_style: "sm:hidden h-[450px] w-full mt-2 object-cover",
 
-      text_style: "absolute text-center mt-7 ml-9 sm:mt-18 sm:ml-[300px]",
+      text_style: "absolute text-center mt-7 ml-9 sm:mt-18 sm:ml-[200px]",
       svg: (
         <svg
-          className="sm:size-9 size-5 mt-2"
+          className="sm:size-7 size-5 mt-2"
           width="20px"
           height="20px"
           viewBox="0 0 22.773 22.773"
@@ -112,11 +112,11 @@ export default function Body3() {
         </svg>
       ),
       text1: "WATCH",
-      text1_style: "sm:text-5xl text-3xl font-medium",
+      text1_style: "sm:text-4xl text-3xl font-medium",
       text2: "SERIES 10",
-      text2_style: "sm:text-xl text-base sm:mt-2 sm:mb-2",
+      text2_style: "sm:text-xl text-base sm:mt-2",
       text3: "Thinstant classic",
-      text3_style: "sm:text-2xl text-base mb-2",
+      text3_style: "sm:text-xl text-base mb-2",
       button1: "Learn more",
       button1_style:
         "bg-blue-500 border sm:w-36 sm:h-12 w-28 h-10 border-blue-500 p-2 text-white text-base sm:text-xl rounded-3xl",
@@ -127,54 +127,54 @@ export default function Body3() {
     {
       image:
         " https://www.apple.com/v/home/cd/images/promos/airpods-4/promo_airpods_4_avail__bl22kvpg6ez6_medium.jpg",
-      image_style: "sm:w-full hidden sm:block sm:h-[800px]",
+      image_style: "sm:w-full hidden sm:block sm:h-[700px]",
       image1:
         "https://www.apple.com/v/home/cd/images/promos/airpods-4/promo_airpods_4_avail__bl22kvpg6ez6_medium.jpg",
       image1_style: "sm:hidden h-[450px] w-full mt-2 object-cover",
 
-      text_style: "absolute text-center sm:ml-[230px] sm:mt-[500px] mt-66",
+      text_style: "absolute text-center sm:ml-[180px] sm:mt-[500px] mt-66",
       text1: "AirPods 4",
-      text1_style: "sm:text-5xl text-3xl font-medium text-white sm:mb-3 ",
+      text1_style: "sm:text-4xl text-3xl font-medium text-white  ",
       text2: "Iconic. Now supersonic.",
-      text2_style: "sm:text-2xl text-xl text-white sm:mt-2",
+      text2_style: "sm:text-xl text-xl text-white sm:mt-2",
       text3: "Available with Active Noise Cancellation.",
-      text3_style: " text-white text-xl  sm:text-2xl sm:mb-6 mb-5",
+      text3_style: " text-white text-xl  sm:text-xl sm:mb-6 mb-5",
 
       button1: "Learn more",
       button1_style:
-        "bg-blue-500 border border-blue-500 sm:w-36 sm:h-12 h-10 w-28 p-2 text-white text-base sm:text-xl rounded-4xl",
+        "bg-blue-500 border border-blue-500 sm:w-36 sm:h-10 h-10 w-28 p-2 text-white text-base sm:text-base rounded-4xl",
       button2: "Buy",
       button2_style:
-        "hover:bg-blue-500 hover:text-white  border ml-6 border-blue-500 sm:w-32 sm:h-12 w-24 h-10 p-2 text-blue-500 sm:text-xl text-base rounded-4xl",
+        "hover:bg-blue-500 hover:text-white  border ml-6 border-blue-500 sm:w-32 sm:h-10 w-24 h-10 p-2 text-blue-500 sm:text-base text-base rounded-4xl",
     },
     {
       image:
         "https://www.apple.com/v/home/cd/images/promos/ipad-pro/promo_ipadpro_avail__s271j89g8kii_large.jpg",
-      image_style: "sm:w-full sm:block hidden sm:h-[800px]",
+      image_style: "sm:w-full sm:block hidden sm:h-[700px]",
       image1:
         "https://www.apple.com/in/home/promos/ipad-pro/images/promo_ipadpro_avail__s271j89g8kii_medium.jpg",
       image1_style: "sm:hidden h-[450px] w-full mt-2",
 
-      text_style: "absolute text-center mt-9 ml-6 sm:mt-18 sm:ml-62",
+      text_style: "absolute text-center mt-9 ml-6 sm:mt-18 sm:ml-42",
       text1: "iPad Pro",
       text1_style: "sm:text-5xl text-3xl font-medium text-white",
       text2: "Unbelievably thin. Incredible powerful",
-      text2_style: "sm:text-2xl text-white m-2 sm:mt-4 sm:mb-6",
+      text2_style: "sm:text-xl text-white m-2 sm:mt-4 sm:mb-4",
       textb1: "Build for Apple Indelligence.",
-      textb1_style: "sm:text-xl text-white mt-62 text-base sm:mt-[470px]",
+      textb1_style: "sm:text-xl text-white mt-62 text-base sm:mt-[400px]",
       textb2: "Coming in English in early April",
       textb2_style: "sm:text-base text-sm text-gray-500 ",
       button1: "Learn more",
       button1_style:
-        "bg-blue-500 border sm:w-36 border-blue-500 h-10 w-28 sm:h-12 p-2 text-white sm:text-xl text-base rounded-4xl",
+        "bg-blue-500 border sm:w-36 border-blue-500 h-10 w-28 sm:h-10 p-2 text-white sm:text-base text-base rounded-4xl",
       button2: "Pre-order",
       button2_style:
-        "hover:bg-blue-500 hover:text-white  border ml-6 border-blue-500 sm:w-36 sm:h-12 h-10 w-28 p-2 text-blue-500 sm:text-xl text-base rounded-4xl",
+        "hover:bg-blue-500 hover:text-white  border ml-6 border-blue-500 sm:w-36 sm:h-10 h-10 w-28 p-2 text-blue-500 sm:text-base text-base rounded-4xl",
     },
   ];
   return (
     <>
-      <div className="grid sm:grid-cols-2 grid-cols-1 sm:gap-6 sm:p-6">
+      <div className="grid sm:grid-cols-2 grid-cols-1 sm:gap-2 sm:p-3">
         {items.map((item, index) => (
           <>
             <a href="">

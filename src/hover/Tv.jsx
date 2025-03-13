@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Tv() {
   return (
-    <div className="flex justify-center z-20  gap-32 absolute bg-white w-full sm:-mt-16 sm:fixed h-[470px]  text-gray-800 ">
-      <ul className="font-semibold mt-6  -ml-[420px]">
+    <div className="flex justify-center z-20  gap-32 absolute bg-white w-full sm:-mt-10 sm:fixed h-[470px]  text-gray-800 ">
+      <ul className="font-semibold mt-6  -ml-[205px]">
         <h5 className="text-sm text-gray-400 mb-3">Explore TV & Home</h5>
         <li className="text-2xl mb-3">
           <a href="">Explore TV & Home</a>

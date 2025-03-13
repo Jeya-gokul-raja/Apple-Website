@@ -109,7 +109,7 @@ export default function Footer() {
   return (
     <>
       <div className=" bg-gray-100   w-full sm:py-6 h-full sm:h-full p-1 sm:px-76  ">
-        <div className="sm:text-base text-sm  text-gray-500">
+        <div className="sm:text-sm text-sm  text-gray-500">
           <p>
             {" "}
             ◊No Cost EMI is available with the purchase of an eligible product
@@ -193,7 +193,7 @@ export default function Footer() {
         </div>
         <hr className="border-t-1 w-full -ml-1 border-gray-300 m-8" />
         <div className="mt-8 sm:flex hidden gap-24 ">
-          <ul>
+          <ul className="">
             <h4 className="font-medium mb-2">Shop and Learn</h4>
             <li className="mb-2 hover:underline">
               <a href="">Store</a>
@@ -297,9 +297,9 @@ export default function Footer() {
               <a href="">Shopping Help</a>
             </li>{" "}
           </ul>{" "}
-          <ul>
+          <ul className="sm:text-base">
             <h4 className="font-medium mb-2">For Business</h4>
-            <li className="hover:underline">
+            <li className="hover:underline sm:text-base">
               <a href="">Apple and Business</a>
             </li>{" "}
             <li className="hover:underline mt-2">

@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Storeopen() {
   return (
-    <div className="flex justify-center z-20  gap-32 absolute bg-white w-full sm:fixed sm:-mt-16 h-[400px]  text-gray-800 ">
-      <ul className="font-semibold mt-6 -ml-[556px]">
+    <div className="flex justify-center z-20  gap-32 absolute bg-white w-full sm:fixed sm:-mt-10 h-[400px]  text-gray-800 ">
+      <ul className="font-semibold mt-6 -ml-[337px]">
         <h5 className="text-sm text-gray-400 mb-3">Shop</h5>
         <li className="text-2xl mb-1">
           <a href="">Shop the Latest</a>

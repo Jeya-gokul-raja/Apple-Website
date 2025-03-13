@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Watch() {
   return (
-    <div className="flex justify-center sm:fixed z-20  gap-32 absolute bg-white w-full sm:-mt-16  h-[500px]  text-gray-800 ">
-      <ul className="font-semibold mt-6  -ml-[325px]">
+    <div className="flex justify-center sm:fixed z-20  gap-32 absolute bg-white w-full sm:-mt-10  h-[500px]  text-gray-800 ">
+      <ul className="font-semibold mt-6  -ml-[100px]">
         <h5 className="text-sm text-gray-400 mb-3">Explore Watch</h5>
         <li className="text-2xl mb-3">
           <a href="">Explore All Apple Watch</a>
