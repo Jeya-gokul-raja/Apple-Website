@@ -11,7 +11,7 @@ export default function Body1() {
   //   ];
 
   return (
-    <div className="bg-[url('Lap.jpg')] sm:bg-[url('Laplg.jpg')] bg-no-repeat bg-center bg-cover flex justify-center pt-20 sm:-mt-16 sm:h-[1000px] h-[500px]  w-full sm:w-full">
+    <div className="bg-[url('/Lap.jpg')] sm:bg-[url('/Laplg.jpg')] bg-no-repeat bg-center bg-cover flex justify-center pt-20 sm:-mt-16 sm:h-[1000px] h-[500px]  w-full sm:w-full">
       <a href="#" className=" text-center">
         <div className=" sm:mt-4 -mt-11">
           <h1 className="sm:text-7xl text-3xl font-bold">MacBook Air</h1>
