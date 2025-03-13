@@ -18,7 +18,7 @@ export default function Body1() {
           <h3 className=" text-xl sm:text-3xl mt-2 sm:mt-4 ">
             Sky blue colour
           </h3>
-          <p className="text-xl   sm:text-3xl -mt-1">
+          <p className="text-xl sm:text-3xl -mt-1">
             Sky-high performance with M4
           </p>
           <h5 className="sm:font-semibold sm:m-4 m-2 text-gray-400 sm:text-xl text-base">
@@ -28,7 +28,7 @@ export default function Body1() {
             <button className="bg-blue-500 border sm:w-36 sm:h-10 h-10 w-26 sm:p-1 p-1 text-white sm:text-xl text-sm rounded-4xl">
               Learn more
             </button>
-            <button className="hover:bg-blue-500 hover:text-white  border ml-6 border-blue-500 sm:w-36 sm:h-10 h-10 w-26 sm:p-1 p-1 text-blue-500 sm:text-xl text-sm rounded-4xl">
+            <button className="hover:bg-blue-500 hover:text-white sm:hover:bg-blue-500 sm:hover:text-white border ml-6 border-blue-500 sm:w-36 sm:h-10 h-10 w-26 sm:p-1 p-1 text-blue-500 sm:text-xl text-sm rounded-4xl">
               Pre-order
             </button>
           </div>

@@ -10,8 +10,8 @@ export default function Body2() {
       //   "https://www.apple.com/v/home/cd/images/heroes/ipad-air/hero_ipad_air_preorder__ftn4a0m2i0uq_small_2x.jpg",
       // image_stylep: "sm:hidden sm:-ml-48 -ml-32  w-full",
       style:
-        "sm:h-[800px] h-[500px]  w-full sm:w-full    sm:mt-3 sm:bg-[url('/tab.jpg')] bg-[url('/tabp.jpg')] bg-no-repeat bg-center bg-cover   ",
-      text_style: "absolute text-center sm:ml-[510px] mt-4 sm:mt-18",
+        "sm:h-[800px] h-[500px]  w-full sm:w-full flex justify-center flex-col sm:mt-3 sm:bg-[url('/tab.jpg')] bg-[url('/tabp.jpg')] bg-no-repeat bg-center bg-cover   ",
+      text_style: "-mt-54 absolute text-center sm:ml-[510px] sm:-mt-76 ",
       text1: "iPad air",
       text1_style: "sm:text-5xl text-3xl font-bold",
       text2: "Now supercharged by the M3 chip.",
@@ -23,10 +23,10 @@ export default function Body2() {
         "font-semibold sm:m-4 text-gray-400 text-base m-1 sm:text-xl",
       button1: "Learn More",
       button1_style:
-        "bg-blue-500 border sm:w-36 sm:h-10 h-10 w-26 border-blue-500 p-2 text-white sm:text-base text-base rounded-4xl",
+        "bg-blue-500 border sm:w-36 sm:h-10 h-10 w-26 border-blue-500 p-2 text-white sm:text-base text-sm rounded-4xl",
       button2: "Pre-order",
       button2_style:
-        "hover:bg-blue-500 hover:text-white  border ml-6 border-blue-500 sm:w-36 sm:h-10 h-10 w-28 p-2 text-blue-500 sm:text-base text-base rounded-4xl",
+        "hover:bg-blue-500 hover:text-white  border ml-6 border-blue-500 sm:w-36 sm:h-10 h-10 w-28 p-2 text-blue-500 sm:text-base text-sm rounded-4xl",
       text5: "Build for Apple Intelligence",
       text5_style: "sm:text-3xl text-base sm:mt-4 ",
       text6: " Coming in English in early April",
@@ -41,7 +41,7 @@ export default function Body2() {
       //   "https://www.apple.com/v/home/cd/images/heroes/mac-studio/hero_macstudio_announce__ceq1ppfwmdjm_medium_2x.jpg",
       // image_stylep: "sm:hidden -ml-48  w-full",
       style:
-        "bg-[url('/box.jpg')] bg-no-repeat bg-center bg-cover sm:bg-[url('/boxp.jpg')]  sm:h-[800px] sm:w-full sm:mt-3 mt-3 h-[500px] w-full ",
+        "bg-[url('/box.jpg')] bg-no-repeat bg-center  bg-cover sm:bg-[url('/boxp.jpg')]  sm:h-[800px] sm:w-full sm:mt-3 mt-3 h-[500px] w-full ",
       text_style: "absolute ml-10 text-center mt-4 sm:ml-[560px] sm:mt-18",
       text1: "Mac Studio",
       text1_style: "sm:text-5xl text-3xl font-bold",

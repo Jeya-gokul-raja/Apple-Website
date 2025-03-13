@@ -112,7 +112,7 @@ export default function Body3() {
         </svg>
       ),
       text1: "WATCH",
-      text1_style: "sm:text-4xl text-3xl font-medium",
+      text1_style: "sm:text-4xl text-3xl font-bold",
       text2: "SERIES 10",
       text2_style: "sm:text-xl text-base sm:mt-2",
       text3: "Thinstant classic",
@@ -134,9 +134,9 @@ export default function Body3() {
 
       text_style: "absolute text-center sm:ml-[180px] sm:mt-[500px] mt-66",
       text1: "AirPods 4",
-      text1_style: "sm:text-4xl text-3xl font-medium text-white  ",
+      text1_style: "sm:text-4xl text-3xl font-bold text-white  ",
       text2: "Iconic. Now supersonic.",
-      text2_style: "sm:text-xl text-xl text-white sm:mt-2",
+      text2_style: "sm:text-xl text-base text-white sm:mt-2",
       text3: "Available with Active Noise Cancellation.",
       text3_style: " text-white text-xl  sm:text-xl sm:mb-6 mb-5",
 
@@ -157,7 +157,7 @@ export default function Body3() {
 
       text_style: "absolute text-center mt-9 ml-6 sm:mt-18 sm:ml-42",
       text1: "iPad Pro",
-      text1_style: "sm:text-5xl text-3xl font-medium text-white",
+      text1_style: "sm:text-5xl text-3xl font-bold text-white",
       text2: "Unbelievably thin. Incredible powerful",
       text2_style: "sm:text-xl text-white m-2 sm:mt-4 sm:mb-4",
       textb1: "Build for Apple Indelligence.",
